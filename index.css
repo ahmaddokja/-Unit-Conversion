@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+#home-el {
+    width: 550px;
+    height: 729px;
+    text-align: center;
+    background-color: #1F2937;
+    align-items: center;
+    margin: auto;
+}
+
+#main-el {
+    background-color:  #6943FF;
+    color: white;
+    height: 285px;
+}
+
+.main1h1 {
+padding-top: 33px;
+}
+
+#input-el {
+     width: 117px;
+    height: 83px;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+}
+/* 
+.main1num {
+    width: 117px;
+    height: 83px;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+     margin-top: 30px; 
+} */
+
+button {
+    background-color: white;
+    width: 117px;
+    height: 42px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+#secdiv {
+    margin-top: 35px;
+}
+
+#secdiv h1 {
+    padding-top: 31px;
+    color: #CCC1FF;
+    font-size: 20px;
+}
+
+#secdiv p {
+    font-size: 14px;
+    color: #FFFFFF;
+    
+}
+
+.div3n1 {
+    width: 500px;
+    height: 108.57px;
+    background-color: #273549;
+    border-radius: 5px 0px 0px 0px;
+    margin: auto;
+    margin-top: 36px;
+}
+
+/* .div3n1 h1 {
+    padding-top: 31px;
+    color: #CCC1FF;
+    font-size: 20px;
+}  */
+
+.div3n2, .div3n3 {
+    width: 500px;
+    height: 108.57px;
+    background-color: #273549;
+    border-radius: 5px 0px 0px 0px;
+    margin: auto;
+    margin-top: 23.5px;
+}
